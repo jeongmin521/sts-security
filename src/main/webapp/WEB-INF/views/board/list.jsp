@@ -4,13 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-	<title>Home</title>
+<title>Insert title here</title>
 </head>
 <body>
-<h1>
-	Hello world!  
-</h1>
-<a href="/hello/board/list">게시물 목록</a>
-<P>  The time on the server is ${serverTime}. </P>
+<h1>게시물 목록</h1>
 </body>
 </html>
